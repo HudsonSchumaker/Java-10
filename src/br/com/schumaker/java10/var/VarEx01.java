@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson Schumaker
  */
 public class VarEx01 {
     public static void main(String[] args) {
