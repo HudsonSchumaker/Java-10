@@ -13,7 +13,7 @@ public class VarEx01 {
             System.out.print(nr + " ");
         }
         System.out.println();
-        for (var i = 0; i < numbers.size(); i++) {
+        for (var i = 0; i < letters.size(); i++) {
             System.out.print(numbers.get(i) + " ");
         }
     }
