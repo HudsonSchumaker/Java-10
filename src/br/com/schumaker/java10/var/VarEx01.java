@@ -14,7 +14,7 @@ public class VarEx01 {
         }
         System.out.println();
         for (var i = 0; i < letters.size(); i++) {
-            System.out.print(numbers.get(i) + " ");
+            System.out.print(letters.get(i) + " ");
         }
     }
 }
