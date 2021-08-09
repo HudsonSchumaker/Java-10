@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class VarEx01 {
     public static void main(String[] args) {
-        var letters = List.of("a", "b", "c", "d", "e");
+        var letters = List.of("a", "b", "c", "d", "e", "f");
         for (var nr : letters) {
             System.out.print(nr + " ");
         }
